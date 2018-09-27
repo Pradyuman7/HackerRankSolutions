@@ -1,5 +1,5 @@
 # HackerRankSolutions
-Solutions to some of HackerRank practice problems in Java and C++.
+Solutions to some of the HackerRank practice problems in Java and C++.
 
 Find me @HackerRank    https://www.hackerrank.com/pradyumandixit.
 
