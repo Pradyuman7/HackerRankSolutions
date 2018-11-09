@@ -1,3 +1,6 @@
+// Algorithm based on putting the element first in a dfferent data structure and then retrieve it to compare to next elements,
+// this is a very effective approach to solve such questions and bring complexity from O(n^2) to O(n)
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
