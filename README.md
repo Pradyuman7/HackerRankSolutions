@@ -8,4 +8,4 @@ Solutions to some of the HackerRank practice problems in Java and C++. Also one 
 
 >Find me @StackOverflow [PradyumanDixit](https://stackoverflow.com/users/8850875/pradyuman-dixit?tab=profile).
 
->Fine me @LinkedIn https://www.linkedin.com/in/pradyuman-dixit/
+>Fine me @LinkedIn [Pradyuman Dixit](https://www.linkedin.com/in/pradyuman-dixit/).
