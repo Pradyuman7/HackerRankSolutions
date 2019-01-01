@@ -6,6 +6,6 @@ Solutions to some of the HackerRank practice problems in Java and C++. Also one 
 
 >Find me @HackerRank    [pradyuman-dixit](https://www.hackerrank.com/pradyumandixit).
 
->Find me @StackOverflow https://stackoverflow.com/users/8850875/pradyuman-dixit?tab=profile
+>Find me @StackOverflow [PradyumanDixit](https://stackoverflow.com/users/8850875/pradyuman-dixit?tab=profile).
 
 >Fine me @LinkedIn https://www.linkedin.com/in/pradyuman-dixit/
