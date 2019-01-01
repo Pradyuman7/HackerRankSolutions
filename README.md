@@ -4,7 +4,7 @@
 
 Solutions to some of the HackerRank practice problems in Java and C++. Also one code in C# and that's my first and most probably the last code in that language. This may also consist of solutions for the Problem solving section.
 
->Find me @HackerRank    https://www.hackerrank.com/pradyumandixit.
+>Find me @HackerRank    [pradyuman-dixit](https://www.hackerrank.com/pradyumandixit).
 
 >Find me @StackOverflow https://stackoverflow.com/users/8850875/pradyuman-dixit?tab=profile
 
