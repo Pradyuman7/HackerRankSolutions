@@ -1,5 +1,5 @@
-// Why Python after so many in Java/C++?
-// Well, just for fun :)
+# Why Python after so many in Java/C++?
+# Well, just for fun :)
 
 T = int(input())
 
