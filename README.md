@@ -1,4 +1,6 @@
-# HackerRankSolutions
+# HackerRank Solutions
+[![HackerRank](https://img.shields.io/badge/HackerRank-Problems-brightgreen.svg?style=flat)](https://hackerrank.com)
+
 ![hackerrank](https://user-images.githubusercontent.com/41565823/46145009-fcdf3100-c25e-11e8-9518-d0dbd3294e30.png)
 
 
